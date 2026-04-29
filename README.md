@@ -19,7 +19,7 @@ Query: [1_customer_segmentation.sql](/1_customer_segmentation.sql)
 
 **Visualization:**
 
-![Customer segmentation pie chart](/images/1_customer_segmentation_ltv.png)
+<img src="images/1_customer_segmentation_ltv.png" alt="Customer segmentation pie chart" style="width: 50%; height: auto;">
 
 **Key Findings**
 - High-value segment (or the top 25% of customers) drives 66% of revenue
@@ -40,7 +40,7 @@ Query: [2_cohort_analysis.sql](/2_cohort_analysis.sql)
 
 **Visualization:**
 
-![Customer revenue by first purchase year bar chart with trendline](/images/2_customer_rev_by_year.png)
+<img src="images/2_customer_rev_by_year.png" alt="Customer revenue by first purchase year bar chart with trendline" style="width: 50%; height: auto;">
 
 **Key Findings**
 - Revenue per customer shows a decreasing trend over time
@@ -61,9 +61,9 @@ Query: [3_retention_analysis.sql](/3_retention_analysis.sql)
 
 **Visualization:**
 
-![Customer retention stacked bar chart](/images/3_customer_retention_churn_cohort.png)
+<img src="images/3_customer_retention_churn_cohort.png" alt="Customer retention stacked bar chart" style="width: 50%; height: auto;">
 
-![pie chart showing overall customer status across all cohorts](/images/3b_overall_customers_status.png)
+<img src="images/3b_overall_customers_status.png" alt="pie chart showing overall customer status across all cohorts" style="width: 50%; height: auto;">
 
 **Key Findings**
 - Cohort church stabilizes at ~90% after 2-3 years, indicating a predictable, long-term retention pattern
